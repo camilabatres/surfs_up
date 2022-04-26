@@ -1,0 +1,4 @@
+{
+    "jupyter.sendSelectionToInteractiveWindow": true,
+    "python.defaultInterpreterPath": "PythonData"
+}
