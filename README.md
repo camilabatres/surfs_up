@@ -8,4 +8,8 @@
 * The maximum temperature for December 83 and the max temperature for June is 85. Both months have similar maximum temperature. We can conclude that the average maximum temperature throughout the year is in hte 80s. 
 
 ## Summary 
+Below is a histogram displaying June's Temperatures. There are more days that have a temperature between the 75-80s. 
+![image](https://user-images.githubusercontent.com/100107588/166178935-3516e7b4-d89a-42fc-b608-73d3bcccdf70.png)
 
+Below is a histogram displaying December's Temperatures. The graph also displays the same range of temperatures as June but most of the temperatures accumulate in the low 70s. 
+![image](https://user-images.githubusercontent.com/100107588/166179081-4a65023f-bf9e-4038-9ec0-3a73b5720600.png)
